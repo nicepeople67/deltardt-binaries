@@ -1,1 +1,1 @@
-DO NOT COPY
+DeltaRDT agent binaries
